@@ -27,6 +27,18 @@ https://github.com/marlonbarrios/cv-p5-hand-tracking
 
 ## Experiment with ML5: Face Detection 
 
+A a text is writen when a smile is detected.
+
+![Screen Shot 2022-06-28 at 5 57 13 PM](https://user-images.githubusercontent.com/90220317/176307535-1e15a535-4fc4-47a5-96d4-f329a43f62c5.png)
+
+Live App here
+
+https://marlonbarrios.github.io/cv-face-detection-p5/
+
+Repository here
+
+https://github.com/marlonbarrios/cv-face-detection-p5
+
 
 
 
