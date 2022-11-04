@@ -9,12 +9,11 @@
 
 
 ##Video Hot Spots |
+
 Recreating interactive triggering of sounds I used to do in MaxMspJitter (2003) using now  JavaScript. The motion is detected by progressive frame difference triggering several oscillators square wave forms.
 I am using  VIDA is a  library that adds camera (or video) based motion detection and blob tracking functionality to p5js. 
 Mind blowing that it runs in the browser.
-#p5 #javascript #creativecodeart #dancetech #creativedevelopment
-Runs better in desktop computers/laptops.
-Let me know  it it works for you. Resize the browser window if you cannot hear sounds.
+
 
 <img width="630" alt="Screen Shot 2022-11-04 at 3 52 11 PM" src="https://user-images.githubusercontent.com/90220317/200063274-ebe9e3a1-9c6d-49e3-a9ef-62f9e4ad8e93.png">
 
@@ -23,9 +22,7 @@ Let me know  it it works for you. Resize the browser window if you cannot hear s
 [Repository here](https://github.com/marlonbarrios/cv_hotspots_camera_vida) 
 
 
-
 ## Experiment with ML5: Hand Detection
-
 
 Can I map the detected landmarks of a hand from the video to draw simple geometries on a canvas and suggest the presence of a hand? 
 Part 2 of the computer vision adventures in p5 and Media Pipe/ML5. It blows my mind that this is running in the browser!
