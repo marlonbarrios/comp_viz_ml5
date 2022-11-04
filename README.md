@@ -8,6 +8,22 @@
 [What is ml5.js](https://ml5js.org/) 
 
 
+##Video Hot Spots |
+Recreating interactive triggering of sounds I used to do in MaxMspJitter (2003) using now  JavaScript. The motion is detected by progressive frame difference triggering several oscillators square wave forms.
+I am using  VIDA is a  library that adds camera (or video) based motion detection and blob tracking functionality to p5js. 
+Mind blowing that it runs in the browser.
+#p5 #javascript #creativecodeart #dancetech #creativedevelopment
+Runs better in desktop computers/laptops.
+Let me know  it it works for you. Resize the browser window if you cannot hear sounds.
+
+<img width="630" alt="Screen Shot 2022-11-04 at 3 52 11 PM" src="https://user-images.githubusercontent.com/90220317/200063274-ebe9e3a1-9c6d-49e3-a9ef-62f9e4ad8e93.png">
+
+[Live App Here](https://marlonbarrios.github.io/cv_hotspots_camera_vida/) 
+
+[Repository here](https://github.com/marlonbarrios/cv_hotspots_camera_vida) 
+
+
+
 ## Experiment with ML5: Hand Detection
 
 
@@ -26,13 +42,11 @@ PS: I takes 20 seconds to load the api.
 [Repository here](https://github.com/marlonbarrios/cv-p5-hand-tracking) 
 
 
-
 ## Experiment with ML5: Face Detection 
 
 A a text is writen when a smile is detected.
 
 ![Screen Shot 2022-06-28 at 5 57 13 PM](https://user-images.githubusercontent.com/90220317/176307535-1e15a535-4fc4-47a5-96d4-f329a43f62c5.png)
-
 
 [Live App Here](https://marlonbarrios.github.io/cv-face-detection-p5/) 
 
@@ -43,10 +57,11 @@ This app tracks the nose doing face detection with machine learning. The positio
 And of course, a red circle is mapped  where your nose is located.
 Code by Marlon Barrios Solano as part of the SoftSpaces series.
 
-
 Live app here:
 
 [Live App Here](https://marlonbarrios.github.io/nosetrackingsimplesound/) 
+
+[Repository here](https://github.com/marlonbarrios/nosetrackingsimplesound) 
 
 
 ## I am... |
@@ -54,9 +69,11 @@ Face tracking using ML5 and mapping a mask responsive to size changes. All in Ja
 
 [Live App Here](https://marlonbarrios.github.io/face_detection_anonymousmask/) 
 
+[Repository here](https://github.com/marlonbarrios/face_detection_anonymousmask) 
+
 
 ## Day of the Dead!
 
 [Live App Here](https://marlonbarrios.github.io/diadelosmuertos/) 
 
-[Back to Portfolio](https://marlonbarrios.github.io/)
+[Back to Portfolio](https://github.com/marlonbarrios/diadelosmuertos)
