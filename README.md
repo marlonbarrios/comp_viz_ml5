@@ -21,7 +21,6 @@ PS: I takes 20 seconds to load the api.
 
 #cv #handdetection #p5 #javascript
 
-
 [Live App Here](https://marlonbarrios.github.io/cv-p5-hand-tracking/) 
 
 [Repository here](https://github.com/marlonbarrios/cv-p5-hand-tracking) 
@@ -35,10 +34,29 @@ A a text is writen when a smile is detected.
 ![Screen Shot 2022-06-28 at 5 57 13 PM](https://user-images.githubusercontent.com/90220317/176307535-1e15a535-4fc4-47a5-96d4-f329a43f62c5.png)
 
 
-
 [Live App Here](https://marlonbarrios.github.io/cv-face-detection-p5/) 
 
 [Repository here](https://github.com/marlonbarrios/cv-face-detection-p5) 
 
+## Nose Tracking with Simple Noise |
+This app tracks the nose doing face detection with machine learning. The position of the 'nose' in the frame trigger oscillators sounds when inside the hot spots areas. Very simple interactivity but  coded from scratch detecting complex human features with Java Script and all running in the browser.
+And of course, a red circle is mapped  where your nose is located.
+Code by Marlon Barrios Solano as part of the SoftSpaces series.
+
+
+Live app here:
+
+[Live App Here](https://marlonbarrios.github.io/nosetrackingsimplesound/) 
+
+
+## I am... |
+Face tracking using ML5 and mapping a mask responsive to size changes. All in Java Script.
+
+[Live App Here](https://marlonbarrios.github.io/face_detection_anonymousmask/) 
+
+
+## Day of the Dead!
+
+[Live App Here](https://marlonbarrios.github.io/diadelosmuertos/) 
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
