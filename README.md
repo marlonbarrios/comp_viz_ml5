@@ -7,7 +7,20 @@
 
 [What is ml5.js](https://ml5js.org/) 
 
-## Interactive 3D animation AR with hand pose recognition using ML:
+## AR App with Video and Image Marker
+
+The image with the circles (red) is augmented with a layer video. Load this  link on  your smart phone scanning the QR code or tapping the link and then scan the image. You will see a plane with a video and sound  floating on top on top of the image. Let me know of it is playing in Iphones...thank you
+You may also open this link in you desktop and show the red image with you phone.
+
+<img width="675" alt="Screen Shot 2022-11-24 at 9 11 02 AM" src="https://user-images.githubusercontent.com/90220317/203805746-f9258fd4-1b80-4d32-b5bb-302ce2419c34.png">
+
+[Live app here](https://marlonbarrios.github.io/ar_imagetracking_video_test/)
+
+[Repository here](https://github.com/marlonbarrios/ar_imagetracking_video_test) 
+
+
+## Interactive 3D animation AR with hand pose recognition using ML
+
 App that places and animated 3D model on an image target and recognizes hand poses using tensorflow.js; when a handpose for the user  is recognized it triggers different behaviors in the model: wave, jump, thumbs up and die!!
 
 
