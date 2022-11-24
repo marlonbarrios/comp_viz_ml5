@@ -1,13 +1,24 @@
 # comp_viz_ml5
 
-# XR/AR Machine Learning 
+# XR/AR+ Machine Learning 
 
 ![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176305847-ed74aaff-c260-45f8-803f-6b4f438a02db.png)
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
 
-[ml5.js](https://ml5js.org/) 
+This is a colletion of projects and experiments combining Augmented Reality (AR/XR) and Machine Learning in the browser using the following JavaScript libraries and resources for graphic rendering and the detection and tracking of motion, image, hands,  facemesh mapping, gesture recornition and more.
 
+[Ml5.js](https://ml5js.org/) 
+
+[Tensorflow.js](https://www.tensorflow.org/js)
+
+[Mindar.js](https://hiukim.github.io/mind-ar-js-doc/)
+
+[Three.js(https://threejs.org/)
+
+[P5.js](https://p5js.org/)
+
+[vida](https://www.tetoki.eu/vida/)
 
 ## AR App with Video and Image Marker
 
