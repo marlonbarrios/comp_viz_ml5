@@ -126,12 +126,17 @@ This app tracks the nose doing face detection with machine learning. The positio
 ## I am... |
 Face tracking using ML5 and mapping a mask responsive to size changes. All in Java Script.
 
+
+<img width="425" alt="Screen Shot 2022-11-24 at 9 55 00 AM" src="https://user-images.githubusercontent.com/90220317/203813714-814ddb58-f1f7-47df-bcf5-3f10b18c2560.png">
+
 [Live App Here](https://marlonbarrios.github.io/face_detection_anonymousmask/) 
 
 [Repository here](https://github.com/marlonbarrios/face_detection_anonymousmask) 
 
 
 ## Day of the Dead!
+
+
 
 [Live App Here](https://marlonbarrios.github.io/diadelosmuertos/) 
 
