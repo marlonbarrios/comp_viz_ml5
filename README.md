@@ -6,7 +6,7 @@
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
 
-This is a colletion of projects and experiments combining Augmented Reality (AR/XR) and Machine Learning in the browser using the following JavaScript libraries and resources for graphic rendering and the detection and tracking of motion, image, hands,  facemesh mapping, gesture recornition and more.
+This is a colletion of projects and experiments combining Augmented Reality (AR/XR) and Machine Learning for graphic rendering and  detection and tracking of motion, image, hands, facemesh mapping, gesture recornition and more. All projects are coded in JavaScript and play in modern browsers using the following JS libraries:
 
 [Ml5.js](https://ml5js.org/) 
 
@@ -14,11 +14,12 @@ This is a colletion of projects and experiments combining Augmented Reality (AR/
 
 [Mindar.js](https://hiukim.github.io/mind-ar-js-doc/)
 
-[Three.js(https://threejs.org/)
+[Three.js](https://threejs.org/)
 
 [P5.js](https://p5js.org/)
 
 [vida](https://www.tetoki.eu/vida/)
+
 
 ## AR App with Video and Image Marker
 
@@ -114,10 +115,8 @@ A a text is writen when a smile is detected.
 
 ## Nose Tracking with Simple Noise |
 This app tracks the nose doing face detection with machine learning. The position of the 'nose' in the frame trigger oscillators sounds when inside the hot spots areas. Very simple interactivity but  coded from scratch detecting complex human features with Java Script and all running in the browser.
-And of course, a red circle is mapped  where your nose is located.
-Code by Marlon Barrios Solano as part of the SoftSpaces series.
 
-Live app here:
+<img width="572" alt="Screen Shot 2022-11-24 at 9 51 42 AM" src="https://user-images.githubusercontent.com/90220317/203812954-a64b845b-ebf2-4026-bd35-beb620f26676.png">
 
 [Live App Here](https://marlonbarrios.github.io/nosetrackingsimplesound/) 
 
