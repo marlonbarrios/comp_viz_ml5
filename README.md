@@ -1,11 +1,13 @@
 # comp_viz_ml5
 
 # XR/AR Machine Learning 
+
 ![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176305847-ed74aaff-c260-45f8-803f-6b4f438a02db.png)
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
 
-[What is ml5.js](https://ml5js.org/) 
+[ml5.js](https://ml5js.org/) 
+
 
 ## AR App with Video and Image Marker
 
@@ -47,6 +49,16 @@ https://creator.nightcafe.studio/cre.../AA9oLVcj0WqJm5p43ISn
 [Live app here](https://marlonbarrios.github.io/ace_mesh_masks_ar)
 
 [Repository here](https://github.com/marlonbarrios/face_mesh_masks_ar) 
+
+## AR with 3D models 
+
+Having some fun developing XR for the browser...select your hats, glasses and...earnings.
+
+![funny hat](https://user-images.githubusercontent.com/90220317/203807432-3932eb37-f2f4-42d4-937d-247f051af10b.png)
+
+[Live app here](https://marlonbarrios.github.io/mindar_3d_facedetection)
+
+[Repository here](https://github.com/marlonbarrios/mindar_3d_facedetection) 
 
 
 ## Video Hot Spots |
