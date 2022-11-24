@@ -7,8 +7,22 @@
 
 [What is ml5.js](https://ml5js.org/) 
 
+## Interactive 3D animation AR with hand pose recognition using ML:
+App that places and animated 3D model on an image target and recognizes hand poses using tensorflow.js; when a handpose for the user  is recognized it triggers different behaviors in the model: wave, jump, thumbs up and die!!
 
-##Video Hot Spots |
+
+<img width="1152" alt="Screen Shot 2022-11-24 at 8 54 57 AM" src="https://user-images.githubusercontent.com/90220317/203802593-cb2e7e02-bf17-4351-ab5f-8a25626dd7d4.png">
+
+Load marker image in your phone  and load  the app in the browser.
+![316008299_10162261094790968_795135122697280972_n](https://user-images.githubusercontent.com/90220317/203802706-cec16101-a342-4de4-847c-41f7c1905b29.jpg)
+
+
+[Live app here](https://marlonbarrios.github.io/tensorflow_handgestures/)
+
+[Repository here](https://github.com/marlonbarrios/tensorflow_handgestures/) 
+
+
+## Video Hot Spots |
 
 Recreating interactive triggering of sounds I used to do in MaxMspJitter (2003) using now  JavaScript. The motion is detected by progressive frame difference triggering several oscillators square wave forms.
 I am using  VIDA is a  library that adds camera (or video) based motion detection and blob tracking functionality to p5js. 
